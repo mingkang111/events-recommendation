@@ -8,10 +8,7 @@ A Java web service that uses personalization to improve events tickets search an
 
 [demo](3.14.79.247/eventsrecommendation/)
 
-```
-username: 584651916
-password: 1111
-```
+
 
 or you can create your own account
 
